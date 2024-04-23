@@ -1,0 +1,13 @@
+.favorit {
+    margin-left: 15px;
+    cursor: pointer;
+}
+
+.favoritIdle {
+    position: absolute;
+
+}
+
+.favoritActive {
+    position: absolute;
+}
